@@ -1,0 +1,49 @@
+body {
+    margin: 0;
+}
+
+#nav {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 15px;
+}
+
+#nav a {
+    margin-right: 20px;
+
+}
+
+#nav a.topimg{
+    width: 20px;
+    height: 20px;
+    background: red;
+    border-radius: 50%;
+
+}
+
+#middle {
+    margin-top: 10%;
+}
+
+#logo {
+    text-align: center;
+
+}
+
+#searchcontainer {
+    margin-top: -50px;
+    text-align: center;
+
+}
+
+#search {
+
+    padding-top: 10px;
+    padding-bottom: 10px;
+    outline: 0;
+    width: 500px;
+    border-radius: 15;
+    border: 1px solid #eeeeee;
+
+
+}
